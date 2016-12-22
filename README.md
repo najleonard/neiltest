@@ -12,7 +12,7 @@ You've created a new ASP.NET Core project. [Learn what's new](https://go.microso
 
 ## How to
 
-*   [Add a Controller and View](https://go.microsoft.com/fwlink/?LinkID=398600)
+*   [Add a Controller and and View](https://go.microsoft.com/fwlink/?LinkID=398600)
 *   [Add an appsetting in config and access it in app.](https://go.microsoft.com/fwlink/?LinkID=699562)
 *   [Manage User Secrets using Secret Manager.](https://go.microsoft.com/fwlink/?LinkId=699315)
 *   [Use logging to log a message.](https://go.microsoft.com/fwlink/?LinkId=699316)
